@@ -18,8 +18,8 @@
 
 # Intensity Thresholding (Thresholding folder)
 
-
 Actual Input:
+
 ![alt text](https://github.com/Murali81/Digital-Image-Processing-Codes/blob/master/Thresholding/five.png)
 
 Removing background and outputting largest and smallest gray levels
