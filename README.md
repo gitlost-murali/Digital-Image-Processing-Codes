@@ -15,3 +15,16 @@
 ![alt text](https://github.com/Murali81/Digital-Image-Processing-Codes/blob/master/Histogram%20Matching/output_histogram.PNG)
 
 ![alt text](https://github.com/Murali81/Digital-Image-Processing-Codes/blob/master/Histogram%20Matching/output_pics.PNG)
+
+# Intensity Thresholding (Thresholding folder)
+
+
+Actual Input:
+![alt text](https://github.com/Murali81/Digital-Image-Processing-Codes/blob/master/Thresholding/five.png)
+
+Removing background and outputting largest and smallest gray levels
+![alt text](https://github.com/Murali81/Digital-Image-Processing-Codes/blob/master/Thresholding/1st_level.png)
+
+Outputting 2nd largest and smallest gray levels
+![alt text](https://github.com/Murali81/Digital-Image-Processing-Codes/blob/master/Thresholding/2nd_level.png)
+
